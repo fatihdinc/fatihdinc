@@ -1,4 +1,4 @@
-# Fatih Dinc
+# Who am I?
 
 I am a PhD candidate at the Department of Applied Physics, Stanford University. My research interest lies in the intersection between neuroscience, theoretical physics and computer science. Using machine learning methods and brain imaging data from mice, I aim to tap into the internal neural circuitry of the brain and understand the neural structure responsible for the memory formation and recollection in the short-term as a member of Schnitzerlab.
 
